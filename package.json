@@ -1,0 +1,22 @@
+{
+  "name": "password-encryptor",
+  "version": "1.0.0",
+  "description": "This package encrypt and decrypts passwords",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azid-ops/Password-Encryptor.git"
+  },
+  "keywords": [
+    "Encryption"
+  ],
+  "author": "azid-ops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azid-ops/Password-Encryptor/issues"
+  },
+  "homepage": "https://github.com/Azid-ops/Password-Encryptor#readme"
+}
